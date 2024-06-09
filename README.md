@@ -18,6 +18,11 @@ Bem-vindo ao One Piece Character Info, um projeto interativo desenvolvido com HT
 
 Para executar o projeto localmente:
 
-1. Clone o repositório:
+1. Domínio do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/one-piece-character-info.git
+    https://juanrodrip.github.io/one-piece-character-info/
+
+
+![projeto-one-piece](https://github.com/juanrodrip/one-piece-character-info/assets/165071916/2e118fbf-a912-4136-9f8a-616063f263f2)
+
+   
